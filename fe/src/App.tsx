@@ -33,12 +33,12 @@ function App() {
             <footer className="mt-16 py-8 border-t border-gray-200 bg-white/50">
               <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-gray-600">
                 <p>Built with ❤️ on Sui Blockchain</p>
-                {/* <p>
+                <p>
                   Source code:{" "}
-                  <a href="https://github.com/sui-buy-me-coffee" target="_blank" rel="noopener noreferrer">
-                    https://github.com/sui-buy-me-coffee
+                  <a href="https://github.com/bilabror/sui-buy-me-coffee" target="_blank" rel="noopener noreferrer">
+                  https://github.com/bilabror/sui-buy-me-coffee
                   </a>
-                </p> */}
+                </p>
               </div>
             </footer>
           </div>
